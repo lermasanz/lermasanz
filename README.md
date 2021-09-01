@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Businesses and/or fate of humanity.**
 
-- 📫 How to reach me **lermasun@gmail.com**
+- 📫 You can reach me at: **lermasun@gmail.com**
 
 - ⚡ Fun fact **Pineapple pizza activist**
 

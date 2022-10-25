@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Isidro Lerma</h1>
+<h1 align="center">Hi 👋, I'm the one who knocks</h1>
 <h3 align="center">50% nerd 50% naughty</h3>
 
 - 🔭 I’m currently working on **my BS in Computer Science.**
 
-- 🌱 I’m learning **lots of stuff. But I'm highly interested in C, C++ and Python. Coming soon I'd love to get a deeper knowledge about AI, Security.**
+- 🌱 I’m learning **many many things but I'm highly interested in AI, ANNs, computer vision, etc.
 
 - 💬 Ask me about **Businesses and/or fate of humanity.**
 

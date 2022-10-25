@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my BS in Computer Science.**
 
-- 🌱 I’m learning **many many things but I'm highly interested in AI, ANNs, computer vision, etc.
+- 🌱 I’m learning **many many things but I'm highly interested in AI, ANNs, computer vision, etc.**
 
 - 💬 Ask me about **Businesses and/or fate of humanity.**
 
